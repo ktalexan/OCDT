@@ -1,2 +1,4 @@
 # OCDT
-## Orange County Digital Twin (OCDT) Main Code and Data Repository
+Orange County Digital Twin (OCDT) Main Code and Data Repository
+----
+
